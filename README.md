@@ -68,13 +68,6 @@ The dataset contains the following columns:
 
 ---
 
-## ✅ Next Improvements (Optional)
-
-- Add a **calendar table** for richer time intelligence.
-- Introduce **customer segmentation** (e.g., RFM or clustering).
-- Include dynamic **Top N slicers** for product and customer views.
-- Deploy dashboard to Power BI Service for sharing and refresh automation.
-
 ---
 
 ## 📬 Contact
