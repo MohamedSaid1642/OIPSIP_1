@@ -1,4 +1,3 @@
-# Oasis info byte intership First Project
 # 🛒 Retail Sales & Customer Demographics Dashboard - Power BI Project
 
 ## 📊 Project Overview
